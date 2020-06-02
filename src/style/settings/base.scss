@@ -1,0 +1,15 @@
+@import './settings.scss';
+
+.btn{
+    border: 1px solid $gray;
+    border-radius: 5px;
+    &--white{
+        background-color: transparent;
+    }
+    &--darkgreen{
+        background-color: $darkgreen;
+    }
+}
+
+
+
